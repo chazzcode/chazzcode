@@ -1,5 +1,8 @@
-# Welcome to my GitHub! 👋
-![chazzcode Banner](banner-github-chazzcode.png)
+<div align="center">
+<h1 align="center">Welcome to my GitHub! 👋</h1>
+</div>
+<img src="https://i.imgur.com/utNkVlp.png">
+
 ## Social Networks
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chazzcode)
 
